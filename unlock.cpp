@@ -1,4 +1,8 @@
 //
+// http://forum.sysinternals.com/topic18892.html
+//
+
+//
 //ntdll.h
 //
 #include <windef.h>
